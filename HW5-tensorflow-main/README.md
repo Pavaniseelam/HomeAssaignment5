@@ -1,7 +1,7 @@
 # HW5-tensorflow
 
-Name : Yeshwanth Narige  
-Id: 700764035
+Name : Pavani Seelam 
+Id: 700756483
 
 # MNIST GAN and Sentiment Classifier Data Poisoning Simulation
 
